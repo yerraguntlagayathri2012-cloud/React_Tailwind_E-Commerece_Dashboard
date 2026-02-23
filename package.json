@@ -1,4 +1,5 @@
 {
+  "homepage": "https://yerraguntlagayathri2012.github.io/React_Tailwind_E-Commerce_Dashboard",
   "name": "react-assign-10",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
+ 
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.0",
